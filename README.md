@@ -9,6 +9,7 @@ Usage examples at top of file.
 We're looking for developers who wish to submit Pull Requests that enhance the functionality of this script to include more features.  Go ahead and Git'er'done!
 
 Author: H. Elwood Gilliland
+
 Consultant: Alejandro Sklar
 
 License: MIT
