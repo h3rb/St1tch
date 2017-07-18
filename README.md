@@ -1,4 +1,5 @@
 # St1tch
+PieceMaker Technologies 2016
 
 Stitches Slic3r GCODE together so you can print different slicings on the same bed.
 
